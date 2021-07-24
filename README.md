@@ -24,9 +24,8 @@ Max 5 users.
  - Manager -> handles all the calculation 
 
 ## why is this ?
-  to summarize, imagine 
-    -> i, is living in a shared apartment. 5 people 3 rooms. 
-    -> 2 rooms have 2 people, and 1 romm have just 1. 
-    -> to know the usage of utilities is the problem. (and, if somebody is outside the house 👀.)
-    -> to smartly get the information required and to spit out results for every individual. 
-    -> 
+  to summarize, metaphorically 🤔💭. 
+  - i, is living in a shared apartment. 5 people 3 rooms. 
+  - 2 rooms have 2 people, and 1 romm have just 1. 
+  - to know the usage of utilities is the problem. (and, if somebody is outside the house 👀.)
+  - to smartly get the information required and to spit out results for every individual.  
