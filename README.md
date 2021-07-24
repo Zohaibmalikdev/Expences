@@ -1,4 +1,4 @@
-# Expences
+# Expences (M JOURNEL)
 Account Manager for Equal distribution of money over (x)days stay. 
 
 ## Utilities
